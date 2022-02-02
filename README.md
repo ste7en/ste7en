@@ -9,7 +9,7 @@
 <br />
 <br />
 
-I'm a Software Engineer, UX Engineer and Human-Computer Interaction and Design MSc student, pursuing a Double Degree (2021) sponsored by [EIT Digital](https://masterschool.eitdigital.eu/) at [Politecnico di Milano](https://www.polimi.it/en)🇮🇹 and [KTH Royal Institute of Technology](https://www.kth.se/en)🇸🇪.
+I'm a Software Engineer and UX Engineer, graduated in Human-Computer Interaction and Design, with a Double Degree (2021) sponsored by [EIT Digital](https://masterschool.eitdigital.eu/) at [Politecnico di Milano](https://www.polimi.it/en)🇮🇹 and [KTH Royal Institute of Technology](https://www.kth.se/en)🇸🇪.
 <br>
 Here you can find something more about me:
 
